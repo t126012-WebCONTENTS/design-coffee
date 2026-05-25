@@ -283,7 +283,7 @@ footer{
   background-color: #fff;
   box-shadow: 0px 24px 40px rgb(0 0 0 / 0.08);
 }
-.font-item{
+.form-item{
   display: grid;
   gap: 10px;
   label{
